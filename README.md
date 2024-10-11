@@ -1,0 +1,1 @@
+The Drum Kit is a fun and interactive web-based application that allows users to play drum sounds by either clicking on drum pads or using their keyboard. It simulates a real drum kit, making it easy to create beats and explore different sounds directly from your browser!
